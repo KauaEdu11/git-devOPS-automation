@@ -5,7 +5,7 @@ Bem-vindo ao repositorio! Este é um projeto exemplo para demonstrar o basico do
 ## Tecnologias usadas
 
 - Git
-_ GitHub
+- GitHub
 - MarkDown
 
 ### 📂 Estrutura do projeto
